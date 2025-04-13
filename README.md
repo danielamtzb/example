@@ -1,2 +1,2 @@
 # example
-teaching a friend how to use githup
+teaching my boyfriend how to use githup
